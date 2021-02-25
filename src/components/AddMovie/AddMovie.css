@@ -1,0 +1,18 @@
+.contact-form{
+    text-align: center;
+ 
+  
+}
+.contact-form .input_text{
+    width:500px;
+    height: 50px;
+    margin: 10px 0;
+    background-color: #adadadbd !important;
+    border: none;
+    outline: none;
+    padding: 20px;
+    border-radius: 4px;
+    color: rgb(0, 0, 0); 
+  }
+  
+ 

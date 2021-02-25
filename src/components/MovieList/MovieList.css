@@ -1,0 +1,21 @@
+.List-movies {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  
+  .add-Movie {
+    text-align: center;
+  }
+  .btnadd{
+    margin: 60px 60px!important;
+font-size: 30px !important;
+    background-color: rgb(131, 131, 131)!important;
+    color: rgb(255, 230, 0)!important;
+    width: 300px !important;
+    height: 50px !important;
+    border-radius: 10px;
+    border-color: none ;
+  }

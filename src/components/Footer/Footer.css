@@ -1,0 +1,14 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+  font-size: 18px;
+    padding: 1%;
+     background: rgba(0, 0, 0, 0.295);
+    
+}
+
+.blockquote-footer{
+    color: rgb(219, 219, 219) !important;
+}
+
